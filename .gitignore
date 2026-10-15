@@ -1,0 +1,8 @@
+dist/
+.build/
+*.app/
+*.zip
+*.codestudio
+.DS_Store
+PROJECT_MEMORY.md
+.env*
