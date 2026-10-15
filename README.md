@@ -34,7 +34,7 @@ No se incluyen borradores, historial, favoritos, inventarios, imágenes, datos d
 
 ## Guía y contribuciones
 
-[Guía de inicio](GUIA.md) · [Ficha del programa](FICHA.md) · [Errores y sugerencias](https://github.com/jessiel212/Codex-PDF417-Creator/issues/new/choose)
+[Guía de inicio](GUIA.md) · [Ficha del programa](FICHA.md) · [Errores y sugerencias](https://github.com/marreroadvisor/Codex-PDF417-Creator/issues/new/choose)
 
 Las pruebas y reportes públicos deben utilizar contenidos sintéticos, sin información personal ni contraseñas Wi-Fi reales.
 
